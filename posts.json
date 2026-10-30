@@ -1,0 +1,28 @@
+{
+ "posts": [
+  {
+   "date": "2026-10-30",
+   "tag": "New kit",
+   "title": "Mining Haul Truck V4: a glue-free 3D print kit",
+   "text": "78 parts, no supports, no glue. Pins with snap-in E-clips for everything that moves, crush-rib dowels for everything that stays. The body tips to 38 degrees on a built-in hinge stop and the front axle steers about 12 degrees each way.",
+   "img": "truck-tipping.webp",
+   "link": "https://www.etsy.com/listing/4605852209?utm_source=vessogo_site&utm_medium=news"
+  },
+  {
+   "date": "2026-10-29",
+   "tag": "Bundles",
+   "title": "Five 1000-design mega bundles for laser, CNC and 3D printing",
+   "text": "Wheels, gears, brake rotors, keychain tags and car Christmas ornaments. Every design is checked by software: one connected piece, no micro holes, a 1 mm minimum feature at default size and watertight STL files.",
+   "img": "rims-wall.webp",
+   "link": "https://www.etsy.com/shop/VESSOGO?section_id=61194029&utm_source=vessogo_site&utm_medium=news"
+  },
+  {
+   "date": "2026-10-28",
+   "tag": "Guide",
+   "title": "Print the fit test first: how to tune pins and dowels on any printer",
+   "text": "Every VESSO GO kit includes a small fit-test coupon. Pins should slide into the 5.4 mm hole with light finger pressure; dowels should grip in the 3.2 mm hole. If they are tight, raise your slicer's XY hole compensation by 0.1 mm. If dowels are loose, reprint them at 102 % XY scale.",
+   "img": "truck-steps.webp",
+   "link": "#guides"
+  }
+ ]
+}
